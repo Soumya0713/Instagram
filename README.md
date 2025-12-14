@@ -21,18 +21,3 @@ A full-stack social media application built with a **Next.js** frontend and a **
 * **Framework:** Express.js
 * **Utilities:** CORS, Body-Parser, UUID
 
----
-
-## 💻 Getting Started
-
-Follow these instructions to get the project running on your local machine.
-
-### 1. Prerequisites
-Make sure you have **Node.js** installed on your computer.
-
-### 2. Installation
-
-**Clone the repository:**
-```bash
-git clone [https://github.com/YourUsername/instagram.git](https://github.com/YourUsername/instagram.git)
-cd instagram
