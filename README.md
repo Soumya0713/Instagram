@@ -34,6 +34,7 @@ Follow these steps to get the project running on your local machine.
 Ensure you have **Node.js** installed on your computer.
 
 ### 2. Clone and Install
+```bash
 # 1. Clone the repository
 git clone [https://github.com/YourUsername/instagram.git](https://github.com/YourUsername/instagram.git)
 
